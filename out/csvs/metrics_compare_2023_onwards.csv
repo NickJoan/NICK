@@ -1,0 +1,5 @@
+Portfolio,CAGR %,Std Dev %,Max Equity Drawdown %,Sharpe Ratio,Sortino Ratio,Omega Ratio,Profit Factor,Win Rate %,Number of Trades
+TPI Sleeve (Inv Vol 1Y Capped),60.26,39.01,-34.64,1.4,2.24,1.32,2.82,56.25,16
+TPI Sleeve (Corr Filter 180D Capped),84.85,43.57,-31.95,1.61,3.03,1.45,6.25,56.25,16
+TPI Sleeve (Corr Filter 180D Full 180D Capped),85.4,43.5,-32.87,1.62,3.11,1.47,6.17,56.25,16
+Buy & Hold BTC,43.93,47.21,-52.64,1.01,1.56,1.16,inf,100.0,1

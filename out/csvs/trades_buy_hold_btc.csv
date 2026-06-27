@@ -1,0 +1,2 @@
+entry_date,exit_date,entry_equity,exit_equity,profit_dollar,trade_return,days,win,status
+2018-01-01,2026-06-25,10000.0,43263.09961413583,33263.09961413583,3.3263099614135827,3097,True,closed
